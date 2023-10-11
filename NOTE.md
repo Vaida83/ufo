@@ -1,3 +1,8 @@
+# Title h1
+Nuoroda: https://www.wikipedia.org   
+Nuoroda [Wiki](https://www.wikipedia.org )  
+Markdown dokumentacija [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+
 <!DOCTYPE html>
 <html lang="en">
     <meta charset="UTF-8">
@@ -18,21 +23,26 @@
 
 </html>
 
-<!--
-    style=" stiliaus-savybe: stiliaus reiksmel kita-savybe: kita reiksme; savybe: reiksme;"
-        style=" 
-        stiliaus-savybe: stiliaus reiksme;
-        kita-savybe: kita reiksme;
-        savybe: reiksme;
-        "
-        SAVYBES:
-        background-color: red;
-        width: 100%;
-        margin: 20%;
+Paprastas tekstas
+-   pirmas  
+    -   **pirmo pirmas**   
+    -   _pirmo antras_  
+    -   **_pirmo trecias_**
+-   antras
+-   trecias
+-   ketvirtas
 
-        display: block;           is virsaus i apacia
-        display: inline;          elgiasi kaip tekstas
-        display: inline-block;    stengiasi buti vienoje eileje, bet jei netelpa, krenta i nauja eile, bet nevirsija tevinio elemento plocio
+## Title 
+Paprastas tekstas
 
-        float: left;  priverstinai stumti elementa nurodyta kryptimi, iki kol atsitrensks i artimiausia elementa (broli, sese arba teva)
-        float:right -->
+### Title
+Paprastas tekstas
+
+#### Title
+Paprastas tekstas
+
+##### Title
+Paprastas tekstas
+
+###### Title h6
+Paprastas tekstas
